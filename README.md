@@ -1,4 +1,4 @@
 fundamentals
 ============
 
-test reprository
+test repository
